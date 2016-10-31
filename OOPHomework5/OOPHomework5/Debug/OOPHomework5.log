@@ -1,0 +1,32 @@
+﻿  Main.cpp
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(170): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(171): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(173): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(278): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(279): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(280): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(281): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(472): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(473): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(474): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(475): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(476): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(477): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(478): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(479): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(480): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(481): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(482): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(483): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(552): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(553): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(554): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(555): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(639): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(640): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(641): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\projects\c projects\oophomework5\oophomework5\main.cpp(650): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned short', possible loss of data
+  OOPHomework5.vcxproj -> D:\Projects\C projects\OOPHomework5\Debug\OOPHomework5.exe

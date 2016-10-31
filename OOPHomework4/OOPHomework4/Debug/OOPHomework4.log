@@ -1,0 +1,5 @@
+﻿  Soldier.cpp
+d:\projects\c projects\oophomework4\oophomework4\soldier.cpp(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Projects\C projects\OOPHomework4\Debug\OOPHomework4.exe : fatal error LNK1120: 1 unresolved externals

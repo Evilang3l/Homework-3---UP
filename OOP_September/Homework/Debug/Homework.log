@@ -1,0 +1,5 @@
+﻿  Transformation.cpp
+d:\projects\c projects\oop_september\homework\transformation.cpp(56): warning C4018: '>': signed/unsigned mismatch
+d:\projects\c projects\oop_september\homework\transformation.cpp(64): warning C4715: 'Transformation::operator()': not all control paths return a value
+  Homework.vcxproj -> D:\Projects\C projects\OOP_September\Debug\Homework.exe
+  Homework.vcxproj -> D:\Projects\C projects\OOP_September\Debug\Homework.pdb (Full PDB)
